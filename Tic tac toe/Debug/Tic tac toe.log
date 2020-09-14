@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Mihai\Desktop\Tic tac toe\Tic tac toe\Source.cpp(99,12): warning C4101: 'count': unreferenced local variable
+C:\Users\Mihai\Desktop\Tic tac toe\Tic tac toe\Source.cpp(99,9): warning C4101: 'j': unreferenced local variable
+  Tic tac toe.vcxproj -> C:\Users\Mihai\Desktop\Tic tac toe\Debug\Tic tac toe.exe
